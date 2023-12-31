@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*e-CnQ3XcOSjznpnBhMXQKg.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*e-CnQ3XcOSjznpnBhMXQKg.gif)
 <h1 align="center">Hi 👋, I'm Satyam</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
