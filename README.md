@@ -4,6 +4,6 @@
 
 - 🌱 I’m currently learning **Nextjs**
 
-- 💬 Ask me about **react, node, mongo and express**
+- 💬 Ask me about **react, node, mongo and express**.
 
 
